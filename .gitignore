@@ -10,3 +10,5 @@ antx.properties
 test-output
 bin
 docs
+*.idea*
+.iml
